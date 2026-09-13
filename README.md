@@ -1,11 +1,8 @@
 # 🍰 Project Tiramisu
 
 > **A Layered Context Architecture & Multi-Model Orchestration Framework for Agentic AI**  
-> Conceived & Architected by **Harshit (wl2sa)** — 12-year-old developer from India 🇮🇳  
-> **Aesthetic System**: Ultra-Clean Minimalism (Black, White, Green, Purple)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
-[![Creator: wl2sa](https://img.shields.io/badge/Creator-Harshit%20(wl2sa)-10B981.svg)](https://wl2sa.bond)
 [![GitHub](https://img.shields.io/badge/GitHub-WL2SAA-181717.svg?logo=github)](https://github.com/WL2SAA)
 [![Discord](https://img.shields.io/badge/Discord-cubiexz-5865F2.svg?logo=discord)](https://discord.com)
 
